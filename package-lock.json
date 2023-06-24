@@ -1,0 +1,21 @@
+{
+    "name": "Sakura-theme",
+    "lockfileVersion": 1,
+    "requires": true,
+    "packages":     {
+        "name": "Packages",
+        "scope": "token.package.keyword",
+        "settings": {
+          "foreground": "#f25477"
+        }
+      },
+      {
+        "name": "Packages",
+        "scope": "token.package",
+        "settings": {
+          "foreground": "#00d7ff"
+        }
+        }
+      }
+      {
+    }
